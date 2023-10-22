@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th , td {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #d3d3d3;
+}
+
+.titulo {
+    font-size: 16px;
+}
+
+.subtitulo {
+    background-color: #ccc;
+}
+
+.valor {
+    color: #555;
+}

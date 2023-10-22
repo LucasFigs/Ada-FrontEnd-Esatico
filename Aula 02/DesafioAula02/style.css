@@ -1,0 +1,56 @@
+body{
+    font-family: FreeMono, Helvetica, sans-serif;
+}
+
+img {
+    width: 100px;
+}
+
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #b3b2b2;
+    text-align: center;
+    padding: 20px;
+}
+
+th {
+    background-color: #ccc;
+}
+
+ul{
+    padding: 0;
+}
+
+i {
+    color: #ffd200;
+}
+
+a {
+    text-decoration: none;
+    color: #2d6073;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+.cabecalho {
+    padding: 30px;
+    margin: 0px 0px 20px 0px;
+}
+
+.cabecalho h1 {
+    text-align: center;
+}
+
+.filme {
+    margin: 20px;
+}
